@@ -154,4 +154,4 @@ MIT License
 
 ---
 
-*Proyecto mantenido por Carlos Ávila y la comunidad* 🇻🇪
+*Proyecto de código abierto - Contribuciones bienvenidas*
