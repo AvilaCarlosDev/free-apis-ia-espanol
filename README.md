@@ -154,4 +154,4 @@ MIT License
 
 ---
 
-*Proyecto mantenido por Carlos Ávila y la comunidad* 🇻🇪
+*Workspace mantenido por Carlos Avila - Developer 🇻🇪*
